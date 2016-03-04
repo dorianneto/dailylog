@@ -7,3 +7,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ###March
 - [Day 01](https://github.com/dorianneto/dailylog/blob/master/log/2016/mar/03-01-2016.md) `php` `built-in webserver` `motivation`
 - [Day 02](https://github.com/dorianneto/dailylog/blob/master/log/2016/mar/03-02-2016.md) `laravel` `custom auth` `focused on work`
+- [Day 03](https://github.com/dorianneto/dailylog/blob/master/log/2016/mar/03-03-2016.md) `linux` `permissions` `focused on work`
